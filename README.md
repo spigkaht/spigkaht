@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @spigkaht
+- 👀 I’m interested in building things, breaking things down, problem solving
+- 🌱 I’m currently learning advanced Ruby on Rails, JavaScript, ReactJS, among others.. 
+- 💞️ I’m looking to collaborate on anything! Reach out :D
+- 📫 How to reach me benjamin.j.web@gmail.com | https://www.linkedin.com/in/benjamin-jackson-dev/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I built my own house!
